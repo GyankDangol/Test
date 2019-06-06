@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0609-5271
+
+ Directory of C:\Users\gyand\OneDrive\Desktop\MyProject
+
+06/06/2019  07:26 PM    <DIR>          .
+06/06/2019  07:26 PM    <DIR>          ..
+06/06/2019  07:26 PM                 0 Test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  943,827,566,592 bytes free
