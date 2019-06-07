@@ -17,7 +17,10 @@ public class JavaMethod {
 	public static void StaticMethod() {
 
 		System.out.println("I am a static Method");
+		System.out.println("this method is success");
+
 	}
+
 
 
 }
